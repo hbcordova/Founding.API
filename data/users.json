@@ -1,0 +1,29 @@
+[
+  {
+    "email": "hbcordova10@gmail.com",
+    "password": "$2a$10$7azbUs4/3D1VTZZIG6ikduf//rOEQIbyiOGQFrU0WJ1T8c6UItT7a",
+    "name": "Heber",
+    "lastname": "Cordova Jimenez",
+    "country": "Perú",
+    "username": "hbcordova",
+    "id": 1
+  },
+  {
+    "email": "mariacordova@gmail.com",
+    "password": "$2a$10$zB/QWcdZBsP78Ifr6AmPIeUwGSqU87u86TrY9wki4zc4AyO.lZuxS",
+    "name": "Maria",
+    "lastname": "Cordova",
+    "country": "Perú",
+    "username": "macordova",
+    "id": 2
+  },
+  {
+    "email": "leonardo.grau@outlook.com.pe",
+    "password": "$2a$10$WMQtjMbpLPSpHcEcJQwWxuHmYb.7LHt6fvoZmlJ06R.3BIpd3Dd4C",
+    "name": "Leonardo Manuel",
+    "lastname": "Vargas",
+    "country": "Chipre",
+    "username": "LeoGrau",
+    "id": 4
+  }
+]

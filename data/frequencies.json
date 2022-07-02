@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Anual",
+    "periods": 1
+  },
+  {
+    "id": 2,
+    "name": "Semestral",
+    "periods": 2
+  },
+  {
+    "id": 3,
+    "name": "Mensual",
+    "periods": 12
+  },
+  {
+    "id": 4,
+    "name": "Diario",
+    "periods": 360
+  }
+]

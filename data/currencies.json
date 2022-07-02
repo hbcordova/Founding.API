@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "name": "PEN",
+    "priceDollar": "0.27"
+  },
+  {
+    "id": 2,
+    "name": "USD",
+    "priceDollar": "1"
+  },
+  {
+    "id": 3,
+    "name": "EUR",
+    "priceDollar": "1.05"
+  }
+]
